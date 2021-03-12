@@ -1,0 +1,9 @@
+.item-list .list-group-item {
+    cursor: pointer;
+    max-width: 600px;
+}
+
+.item-list {
+   max-width: 600px;
+   text-align: center;
+}

@@ -1,0 +1,8 @@
+.random-block > img {
+   width: 100%;
+}
+.random-block span {
+   display: block;
+   margin: 5px auto;
+   text-align: center;
+}
